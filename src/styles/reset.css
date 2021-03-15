@@ -1,0 +1,71 @@
+/* *,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  outline: none;
+}
+
+html {
+  color: var(--white);
+  color: var(--black);
+  font-size: 62.5%;
+}
+
+body {
+  background-color: var(--black);
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+
+a {
+  color: var(--white);
+  color: var(--black);
+  text-decoration: none;
+}
+
+button {
+  border: none;
+  cursor: pointer;
+  padding: 0;
+}
+
+button:disabled {
+  cursor: initial;
+}
+
+ol,
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+table {
+  border-collapse: collapse;
+  table-layout: fixed;
+  width: 100%;
+}
+
+img {
+  image-rendering: pixelated;
+} */
+
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  outline: none;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background-color: var(--black);
+}
+
+p {
+  margin: 0;
+}

@@ -1,0 +1,49 @@
+@font-face {
+  font-family: 'Anton';
+  src: url('../../assets/fonts/anton.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IndieFlower';
+  src: url('../../assets/fonts/indieflower.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Josefin Sans';
+  src: url('../../assets/fonts/josefinsans.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Lobster';
+  src: url('../../assets//fonts//lobster.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Lora';
+  src: url('../../assets//fonts/lora.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Luckiest Guy';
+  src: url('../../assets//fonts/luckiestguy.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Oswald';
+  src: url('../../assets//fonts/oswald.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Roboto Slab';
+  src: url('../../assets//fonts/robotoslab.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Rubik';
+  src: url('../../assets//fonts/rubik.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Special Elite';
+  src: url('../../assets//fonts/specialelite.ttf') format('truetype');
+}

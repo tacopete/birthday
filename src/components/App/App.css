@@ -1,0 +1,24 @@
+.main {
+  position: relative;
+}
+
+.textbox {
+  animation-name: fade;
+  animation-timing-function: ease;
+  position: absolute;
+}
+
+.user {
+  font-style: italic;
+}
+
+@keyframes fade {
+  0%,
+  100% {
+    opacity: 0;
+  }
+  20%,
+  80% {
+    opacity: 1;
+  }
+}
