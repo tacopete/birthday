@@ -1,5 +1,5 @@
 export default {
-  TRIGGER_MESSAGES: ['happy birthday', 'birthday', 'happy birth', 'happy day of', 'hbd'],
+  TRIGGER_MESSAGES: ['happy birthday', 'birthday', 'happy birth', 'happy day of', 'hbd', 'happybday', 'bday', 'hbday'],
   CHANNEL_NAME: 'hicelina',
   FONTS: [
     'Anton',
@@ -14,9 +14,9 @@ export default {
     'Special Elite',
   ],
   OPACITY: 1,
-  SCREEN_HEIGHT: 1440,
-  SCREEN_WIDTH: 2560,
-  TEXTBOX_HEIGHT: 600,
+  SCREEN_HEIGHT: 720,
+  SCREEN_WIDTH: 1280,
+  TEXTBOX_HEIGHT: 400,
   TEXTBOX_TIMER: 7 * 1000,
-  TEXTBOX_WIDTH: 1000,
+  TEXTBOX_WIDTH: 600,
 };
