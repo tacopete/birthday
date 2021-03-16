@@ -1,5 +1,17 @@
 export default {
-  TRIGGER_MESSAGES: ['happy birthday', 'birthday', 'happy birth', 'happy day of', 'hbd', 'happybday', 'bday', 'hbday'],
+  TRIGGER_MESSAGES: [
+    'happy birthday',
+    'birthday',
+    'happy birth',
+    'happy day of',
+    'hbd',
+    'happybday',
+    'bday',
+    'hbday',
+    'birth',
+    'sto lat',
+    'stolat',
+  ],
   CHANNEL_NAME: 'hicelina',
   FONTS: [
     'Anton',
